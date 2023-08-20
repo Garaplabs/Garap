@@ -18,13 +18,13 @@ Garap is a cutting-edge platform designed to redefine the airdrop landscape with
 At Garap, our vision is to create a seamless and user-friendly environment for airdrop enthusiasts, while also promoting the growth of legitimate projects in the crypto space. We believe that by addressing the challenges faced by airdrop hunters and developers alike, we can contribute to a more transparent and rewarding ecosystem.
 
 ## Key Features
-- P2P Token Exchange: Trade your airdrop tokens directly with other users using our peer-to-peer exchange feature. Enjoy a seamless and secure trading experience without the need for intermediaries.
-- Airdrop Categorization: Easily discover airdrops that match your interests through our categorized listings. Find airdrops tailored to your preferences and stay up-to-date with the latest opportunities.
+- P2P Hub: Trade your airdrop tokens directly with other users using our peer-to-peer exchange feature. Enjoy a seamless and secure trading experience without the need for intermediaries.
+- Flashbots: Utilize our Flashbots integration to enhance the security of your transactions. Safeguard against malicious activity and optimize your transaction success rates.
 - Practice Hub: Sharpen your airdrop participation skills through our Practice Hub. Participate in simulated airdrops to enhance your strategies and confidence before diving into real opportunities.
 - Testnet Faucet: Access testnet tokens for experimentation and learning purposes through our Testnet Faucet. Gain hands-on experience without risking real assets.
-- Flashbots: Utilize our Flashbots integration to enhance the security of your transactions. Safeguard against malicious activity and optimize your transaction success rates.
-- Direct Notification: Receive instant notifications about new airdrops, token listings, and platform updates. Stay ahead in the airdrop game with timely alerts.
-- Dapp and Token Contract Security Check: Ensure the safety of your wallet and assets with our comprehensive dApp wallet and token contract security checks. Detect potential vulnerabilities and protect yourself from risks.
+- Airdrop Organizer: Easily discover airdrops that match your interests through our categorized listings. Find airdrops tailored to your preferences and stay up-to-date with the latest opportunities.
+- Security Checker: Ensure the safety of your wallet and assets with our comprehensive dApp wallet and token contract security checks. Detect potential vulnerabilities and protect yourself from risks.
+- Airdrop Insights and Project Overview
 
 ## Roadmap
 **Q4 2023: Research & Funding Prep**
