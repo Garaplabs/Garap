@@ -27,6 +27,65 @@ At Garap, our vision is to create a seamless and user-friendly environment for a
 - Dapp and Token Contract Security Check: Ensure the safety of your wallet and assets with our comprehensive dApp wallet and token contract security checks. Detect potential vulnerabilities and protect yourself from risks.
 
 ## Roadmap
+**Q4 2023: Research & Funding Prep**
+- Identify the technology.
+- Finalize the concept.
+- Initiate investor discussions for funding.
+- Architecture and UX design planning.
+  
+**Q1 2024: Funding & Development Kickstart**
+- Secure funding for initial development.
+- Assemble a multidisciplinary core team.
+- Prototype testing environment setup.
+- Evaluate scalability & security.
+- Develop core features functions like P2P Hub.
+- Draft whitepaper and documentation.
+- Build community engagement.
+  
+**Q2 2024: Feature Development & Testing**
+- Create main features.
+- Create small features.
+- Explore integrations with crypto wallets.
+- Begin private beta testing.
+- Refine platform based on feedback.
+- Explore partnerships for mutual benefits.
+- Expand user base with public beta.
+- Establish customer support.
+- Prepare for official launch.
+- Conduct security audit.
+  
+**Q3 2024: Official Launch & Growth**
+- Officially public launch.
+- Engage with influencers and communities.
+- Continuously gather user feedback.
+- Forge partnerships with blockchain projects.
+- Monitor & improve performance.
+- Focused on marketing.
+- 2nd audit.
+  
+**Q4 2024: Build Additional Features**
+- Research user's advanced features.
+- Create user's advanced features.
+- Initiate developer surveys.
+- Research features and services for developers.
+- Exploring more business models.
+- 3rd audit.
+  
+**Q1 2025: Developer-Focused Features & Services**
+- SDKs development for integration.
+- Execute developer's stuff and services.
+- Evaluate scalability & security.
+- Optimize UI/UX.
+- Perform load testing.
+- Public launch features & services.
+- Conduct security audit.
+  
+**Q2 2025 onwards...**
+- Massive platform expansion research.
+- Research for advanced features.
+- UI revamp and upgrade
+- Collaborate with events.
+- Adapt to tech trends.
 
 ## FAQs
 **- Is Garap a paid service?**
