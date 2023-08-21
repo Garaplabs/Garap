@@ -1,0 +1,42 @@
+## Website Worlflow
+
+1. User Authentication:
+   - Users log in or register using email/password or OAuth.
+   - Backend validates credentials and generates authentication tokens.
+
+2. Connect with Crypto Wallet:
+   - Users connect their crypto wallets (e.g., MetaMask).
+
+3. P2P Hub:
+   - Users create P2P token exchange offers.
+   - Backend receives and processes trade requests.
+   - Transactions are signed by the user's wallet and sent to the blockchain.
+
+4. Practice Hub:
+   - User Choose Practice.
+   - Users interact with training smart contracts for airdrop simulations.
+
+5. Flashbots Integration:
+   - Users create flashbot request for their wallet.
+   - Backend receives and processes flashbot requests.
+   - Transactions are sent via Flashbots integration for enhanced security.
+
+6. Testnet Faucet:
+   - Users request testnet tokens through the website.
+   - Requests are processed by the faucet smart contract.
+   - Testnet tokens are sent to the user's wallet.
+
+7. Airdrop Organize:
+   - Backend fetches airdrop lists from Valuble's Telegram Channel.
+   - Airdrops are categorized based on user preferences.
+
+8. Security Checker:
+   - Users request smart contract or website url to check.
+   - Backend receive and process request.
+   - Users get detailed information about smartcontract and website url.
+
+9. Airdrop Insight and Project Overview:
+   - Users access the "Airdrop Insight and Project Overview" feature through the Garap Labs website.
+
+10. More Features:
+   - Feature will integration with main features.
