@@ -1,5 +1,7 @@
 ## Website Worlflow
 
+Explore the workflow documentation for how Garap's Website works!
+
 1. User Authentication:
    - Users log in or register using email/password or OAuth.
    - Backend validates credentials and generates authentication tokens.
