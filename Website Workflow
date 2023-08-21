@@ -2,6 +2,8 @@
 
 Explore the workflow documentation for how Garap's Website works!
 
+![Garap's Platform Workflow](https://www.canva.com/design/DAFsJGidQ58/view)
+
 1. User Authentication:
    - Users log in or register using email/password or OAuth.
    - Backend validates credentials and generates authentication tokens.
